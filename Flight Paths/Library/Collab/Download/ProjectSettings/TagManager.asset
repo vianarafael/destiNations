@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Earth
+  - TH
+  - EG
+  - ZA
+  - US
+  - DE
+  - GR
+  - FR
+  - CH
+  - BR
+  - GB
+  - AU
+  - CA
+  - RU
+  - JP
+  - TR
+  - UK
+  - TH
+  - MX
+  - PH
+  - DZ
+  - AE
+  - ZA
+  - IN
+  - AR
+  - ES
+  - KO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

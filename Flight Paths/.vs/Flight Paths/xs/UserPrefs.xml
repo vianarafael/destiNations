@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F308BC95-9613-8E3B-3C05-9C14B4AC0066}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClientAPI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ClientAPI.cs" Line="88" Column="90" />
+      <File FileName="Assets/Scripts/Airplane.cs" Line="38" Column="14" />
+      <File FileName="Assets/Scripts/CountryFacts.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flight Paths" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="ClientAPI.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5eae37e7-c88b-4169-93fa-50e589ee8722" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
